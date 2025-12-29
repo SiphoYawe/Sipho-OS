@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow these specific files and directories
+!README.md
+!learning-framework/
+!learning-framework/**
+!saas-strategy-framework/
+!saas-strategy-framework/**
+!atomic-habits-framework/
+!atomic-habits-framework/**
+
+# Keep the gitignore itself
+!.gitignore
