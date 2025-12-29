@@ -1,10 +1,10 @@
-# SiphoOS
+# Sipho OS
 
 A framework and learning system for productivity, learning, strategy, and mindset by leveraging AI as a "second brain."
 
 ## Overview
 
-SiphoOS is an operating system for personal and professional development. It provides a collection of tools, workflows, and frameworks designed to dramatically accelerate what individuals can accomplish.
+Sipho OS is an operating system for personal and professional development. It provides a collection of tools, workflows, and frameworks designed to dramatically accelerate what individuals can accomplish.
 
 ### Core Objectives
 
@@ -21,7 +21,7 @@ SiphoOS is an operating system for personal and professional development. It pro
 ## Repository Structure
 
 ```
-SiphoOS/
+Sipho OS/
 ├── learning-framework/       # Accelerated learning systems
 ├── saas-strategy-framework/  # SaaS business strategy frameworks
 ├── atomic-habits-framework/  # Habit formation and behavioral change
@@ -30,7 +30,7 @@ SiphoOS/
 
 ## Philosophy
 
-SiphoOS treats AI as a "second brain" - not a replacement for human thinking, but an amplifier of human capability. The frameworks in this repository are designed to be used in conjunction with AI tools to create compounding leverage on individual effort.
+Sipho OS treats AI as a "second brain" - not a replacement for human thinking, but an amplifier of human capability. The frameworks in this repository are designed to be used in conjunction with AI tools to create compounding leverage on individual effort.
 
 ## License
 
