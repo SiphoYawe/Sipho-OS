@@ -9,6 +9,8 @@
 !saas-strategy-framework/**
 !atomic-habits-framework/
 !atomic-habits-framework/**
+!color-psychology-framework/
+!color-psychology-framework/**
 
 # Keep the gitignore itself
 !.gitignore
